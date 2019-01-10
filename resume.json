@@ -114,7 +114,7 @@
       "project_type": "personal",
       "name": "前端开发文档",
       "source": "https://github.com/whjin/front-end-dev-docs",
-      "demo": "https://whjin.github.io/front-end-dev-docs/",
+      "demo": "https://whjin.github.io/front-end-dev-docs",
       "description": [
         "存放日常工作学习中的知识点和项目实例，方便大家进行查看，内容丰富多样，包含了大部分前端技术，后期会更多地加入后端的知识点。"
       ],
@@ -131,7 +131,7 @@
       "project_type": "personal",
       "name": "前端网址导航",
       "source": "https://github.com/whjin/site-nav",
-      "demo": "https://whjin.github.io/site-nav/",
+      "demo": "https://whjin.github.io/site-nav",
       "description": [
         "精选优秀的前端站点和技术论坛，同时也是个人经常访问的网站，可以从中学习，研究更多技术内容，扩展技术视野和实战能力。"
       ],
