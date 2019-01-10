@@ -112,9 +112,9 @@
       "type": "project",
       "techtype": "frontend",
       "project_type": "personal",
-      "name": "现代WEB开发",
-      "source": "https://github.com/whjin/full-stack-development",
-      "demo": "https://whjin.github.io/full-stack-development/",
+      "name": "前端开发文档",
+      "source": "https://github.com/whjin/front-end-dev-docs",
+      "demo": "https://whjin.github.io/front-end-dev-docs/",
       "description": [
         "存放日常工作学习中的知识点和项目实例，方便大家进行查看，内容丰富多样，包含了大部分前端技术，后期会更多地加入后端的知识点。"
       ],
