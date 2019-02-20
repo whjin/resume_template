@@ -27,7 +27,7 @@
   "links": [
     {
       "type": "homepage",
-      "url": "https://whjin.github.io/"
+      "url": "https://whjin.github.io/blog"
     },
     {
       "type": "segmentfault",
@@ -113,8 +113,8 @@
       "techtype": "frontend",
       "project_type": "personal",
       "name": "前端开发文档",
-      "source": "https://github.com/whjin/front-end-dev-docs",
-      "demo": "https://whjin.github.io/front-end-dev-docs",
+      "source": "https://github.com/whjin/frontend-dev-doc",
+      "demo": "https://whjin.github.io/frontend-dev-doc/",
       "description": [
         "存放日常工作学习中的知识点和项目实例，方便大家进行查看，内容丰富多样，包含了大部分前端技术，后期会更多地加入后端的知识点。"
       ],
@@ -166,10 +166,10 @@
         {
           "summary": "Node.js",
           "description": [
-            "能够使用 `Node.js API` 或 `Express/Koa` 搭建简单的后端程序，渲染模板及提供 `RESTful API`。",
-            "能编写简单的 `Express` / `Connect` 中间件，使用 `Mocha` 与 `Chai` 编写单元测试。",
-            "有使用 `MongoDB` / `MySQL` 数据库，`Redis` 缓存，`Nginx` 反向代理的经验。",
-            "了解 `HTTP（1.x / 2）`，`TCP / IP`，`WebSocket` 等协议。"
+            "能够使用 `Node.js API` 或 `Express/Koa2` 搭建简单的后端程序，渲染模板及提供 `RESTful API`",
+            "了解异步 `I/O` 及事件驱动的服务器模型，掌握常见的异步编程解决方案",
+            "能编写简单的 `Express` / `Connect` 中间件，使用 `Mocha` 与 `Chai` 编写单元测试",
+            "了解 `HTTP`，`TCP/IP`，`WebSocket` 等协议，熟悉 `MongoDB` / `MySQL` 数据库"
           ]
         }
       ]
@@ -180,11 +180,10 @@
         {
           "summary": "前端工程实践",
           "description": [
-            "熟悉 `jQuery / Bootstrap` 的使用、定制与扩展。",
-            "熟悉 `Vue.js` 框架，了解 `React`。",
-            "熟悉状态管理工具 `Vuex` ，了解 `Redux` 。",
-            "在项目中使用过 `Gulp` / `Webpack` 等多种模块化解决方案。",
-            "掌握前端兼容性处理、性能优化技巧，并在项目中加以实践。"
+            "熟悉 `jQuery` / `Bootstrap` 的使用、定制与扩展, 阅读过部分源代码",
+            "熟练掌握 `JavaScript` 原生开发以及 `React` / `Vue` 等前端框架",
+            "在项目中使用过 `RequireJS` / `WebPack` 等多种模块化解决方案",
+            "掌握基本的前端兼容性处理、性能优化技巧，并在项目中加以实践"
           ]
         }
       ]
@@ -192,11 +191,11 @@
     {
       "type": "miscellaneous",
       "item": [
-        "能够使用 `Photoshop` / `Illustrator` 完成页面设计。",
-        "使用 `Git / WebStorm` 进行开发，喜欢尝试新工具。",
-        "能够流畅阅读英文文档，具备良好的技术交流能力。",
-        "了解 `Linux` 的基本操作，常用命令与配置，能编写简单的 `bash` 脚本。",
-        "熟练使用 `Markdown`，喜欢在 `Github` 分享技术。"
+        "能够使用 `PhotoShop` / `Illustrator` 完成页面设计",
+        "使用 `Git` 进行开发，喜欢尝试新工具",
+        "能够流畅阅读英文文档，具备良好的技术交流能力",
+        "了解 `Linux` 的基本操作，常用命令与配置，能编写简单的 `bash` 脚本",
+        "熟练使用 `Markdown`，喜欢在 `Github` 分享技术"
       ]
     }
   ]
