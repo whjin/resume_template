@@ -93,14 +93,15 @@
     {
       "type": "internship",
       "techtype": "frontend",
-      "place": "招联金融",
+      "place": "自学前端开发",
       "start": "2017.05",
-      "end": "2018.12",
-      "name": "数据分析",
+      "end": "2019.03",
+      "name": "前端开发",
       "description": [
-        "提取数据库中的业务数据，导入`Excel`表进行整理。",
-        "使用`R`、`SPSS`、`Python`对数据进行挖掘分析。",
-        "把分析结果制作成图表提供给业务部门参考。"
+        "学习前端基础技能，使用`HTML` / `CSS` / `JavaScript`/ `jQuery`/`Bootstrap`制作过网站、简历、论坛、博客。",
+        "学习后端开发技术，使用`PHP/Node.js/Mongodb`搭建服务器和数据后台，制作了电商网站、管理后台。",
+        "学习了前端框架技术，使用`Vue.js/React.js`开发企业应用，制作了旅游网站，评论系统，企业网站等。",
+        "热爱前端开发，喜欢钻研技术，渴望在前端领域取得成功并为此付出不懈努力。"
       ],
       "stack": [
         "PS",
@@ -149,7 +150,7 @@
       "project_type": "personal",
       "name": "旅游网站",
       "source": "https://github.com/whjin/make-quasar",
-      "demo": "https://github.com/whjin/make-quasar",
+      "demo": "https://whjin.github.io/make-quasar/#/",
       "description": [
         "使用`Quasar`设计的`Material`和`IOS`风格的旅游网站，使用`Vue.js`作为框架主体，能够轻松设配移动端。"
       ],
