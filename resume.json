@@ -74,10 +74,10 @@
     {
       "type": "internship",
       "techtype": "frontend",
-      "place": "共济科技 工程服务部",
+      "place": "共济科技",
       "start": "2013.07",
       "end": "2017.04",
-      "name": "组态设计 | 项目助理",
+      "name": "组态设计|项目助理",
       "description": [
         "参与数据机房监控系统的设计工作，并深入工程现场解决客户的需求。",
         "优化项目流程，协调各部门的沟通与合作，提升项目执行和交付效率。",
@@ -93,7 +93,7 @@
     {
       "type": "internship",
       "techtype": "frontend",
-      "place": "自学前端开发",
+      "place": "前端开发",
       "start": "2017.05",
       "end": "2019.03",
       "name": "前端开发",
