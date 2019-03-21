@@ -80,8 +80,7 @@
       "name": "组态设计",
       "description": [
         "`优秀员工` / `年度优秀项目`",
-        "参与数据机房监控系统的设计工作，并深入工程现场解决客户的需求。优化项目流程，协调各部门的沟通与合作，提升项目执行和交付效率。",
-        "参与设计平安大厦、太平金融大厦、深交所大厦，建设银行武汉数据中心监控平台，推动企业完成监控系统的改造升级，帮助企业提升运行效能和节能降耗。"
+        "参与数据机房监控系统的设计，并深入工程现场解决客户的需求。优化项目流程，协调各部门的沟通与合作，提升项目执行和交付效率。推动企业完成监控系统的改造升级，帮助企业提升运行效能和节能降耗。"
       ],
       "stack": [
         "PS",
@@ -93,8 +92,8 @@
     {
       "type": "internship",
       "techtype": "frontend",
-      "place": "蘑菇云",
-      "start": "2017.05",
+      "place": "蘑菇财富技术",
+      "start": "2018.05",
       "end": "2018.12",
       "name": "Web前端开发(实习)",
       "description": [
@@ -116,7 +115,7 @@
       "source": "https://github.com/whjin/frontend-dev-doc",
       "demo": "https://whjin.github.io/frontend-dev-doc/",
       "description": [
-        "项目实例。"
+        "前端开发文档汇总（含代码规范、开发流程、学习笔记、知识分享,持续更新）。"
       ],
       "stack": [
         "html",
@@ -129,11 +128,11 @@
       "type": "project",
       "techtype": "frontend",
       "project_type": "personal",
-      "name": "电商网站",
-      "source": "https://github.com/whjin/TBuys",
-      "demo": "https://github.com/whjin/TBuys",
+      "name": "连线五子棋",
+      "source": "https://github.com/whjin/make-react-game",
+      "demo": "https://whjin.github.io/make-react-game/",
       "description": [
-        "功能完善的用户购物电商网站，适配移动端。"
+        "`React`设计的一款连线五子棋小游戏，轻松好玩界面简洁干净，部署到`Github Pages`。"
       ],
       "stack": [
         "html",
@@ -150,7 +149,7 @@
       "source": "https://github.com/whjin/make-quasar",
       "demo": "https://whjin.github.io/make-quasar/#/",
       "description": [
-        "使用`Quasar`设计的`Material`和`IOS`风格的旅游网站，使用`Vue.js`作为框架主体，能够轻松设配移动端。"
+        "使用`vue-cli`作为主体，`Quasar`框架设计的`Material`风格的在线旅游网站，能够轻松设配移动端。"
       ],
       "stack": [
         "html",
