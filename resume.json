@@ -110,6 +110,23 @@
       "type": "project",
       "techtype": "frontend",
       "project_type": "personal",
+      "name": "前端网址导航",
+      "source": "https://github.com/whjin/site-nav",
+      "demo": "https://whjin.github.io/site-nav/",
+      "description": [
+        "收集经常访问的优秀前端资源站点（含技术站点、优秀博客、开发工具、技术周刊等）。"
+      ],
+      "stack": [
+        "html",
+        "css",
+        "js"
+      ],
+      "compatibility": "IE9+"
+    },
+    {
+      "type": "project",
+      "techtype": "frontend",
+      "project_type": "personal",
       "name": "小游戏",
       "source": "https://github.com/whjin/make-react-game",
       "demo": "https://whjin.github.io/make-react-game/",
