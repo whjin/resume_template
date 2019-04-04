@@ -76,10 +76,11 @@
       "techtype": "frontend",
       "place": "共济科技",
       "start": "2013.07",
-      "end": "2017.04",
+      "end": "2018.04",
       "name": "组态设计|项目助理",
       "description": [
-        "参与数据机房监控系统的设计，并深入工程现场解决客户的需求。优化项目流程，协调各部门的沟通与合作，提升项目执行和交付效率。推动企业完成监控系统的改造升级，帮助企业提升运行效能和节能降耗。",
+        "数据中心监控系统设计，数据模块化升级改造，微模块系统开发，企业运维系统开发等。",
+        "现场设备安装调试，优化项目流程，协调各部门的沟通合作。",
         "`优秀员工` / `年度优秀项目`"
       ],
       "stack": [
@@ -166,25 +167,6 @@
       "demo": "https://github.com/whjin/TBuys",
       "description": [
         "`node.js+Express+mongodb`设计的小型电商网站，使用`Bootstrap`适配移动端。"
-      ],
-      "stack": [
-        "html",
-        "css",
-        "js",
-        "node.js",
-        "mongodb"
-      ],
-      "compatibility": "IE9+"
-    },
-    {
-      "type": "project",
-      "techtype": "frontend",
-      "project_type": "personal",
-      "name": "网易新闻客户端",
-      "source": "https://github.com/whjin/frontend-dev-doc/tree/master/instance/js/newsClient",
-      "demo": "https://whjin.github.io/frontend-dev-doc/instance/js/newsClient/index.html",
-      "description": [
-        "`HTML5` 设计的网易新闻客户端，使用原生`JS/CSS3`适配移动端。"
       ],
       "stack": [
         "html",
