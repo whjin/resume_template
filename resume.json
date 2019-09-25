@@ -101,7 +101,8 @@
         "微模块产品`H5`展示页，企业论坛设计，兰途科技官网设计，卓想管理企业官网设计等，积累一定的网站设计经验，较大程度提升前端开发能力。",
         "参与公司官网升级改版，使用`HTML`、`JavaScript`、`CSS`、`jQuery`、`Bootstrap`、移动应用插件等技术完成网站设计，并进一步做了移动适配，网页结构清晰合理，性能稳定，体验流畅。",
         "设计微模块产品`H5`宣传页，使用`jQuery`、`CSS3`动画、`Bootstrap`、`Swiper`触摸滑动插件等，充分运用性能优化、移动适配、`HTML5`新技术提高用户体验。",
-        "制作兰途科技官网，使用 `HTML`、`CSS`、`jQuery` 成熟技术，通过媒体查询 `Media Queries` 进行移动端适配，较好地实现网站兼容性优化和多终端适配。"
+        "制作兰途科技官网，使用 `HTML`、`CSS`、`jQuery` 成熟技术，通过媒体查询 `Media Queries` 进行移动端适配，较好地实现网站兼容性优化和多终端适配。",
+        "使用 `vue`、`vuex`、`vue-router`、`axios`、`flex` 技术栈构建的移动端和PC端商城。"
       ],
       "stack": [
         "HTML5",
@@ -118,7 +119,7 @@
       "project_type": "personal",
       "name": "前端开发文档",
       "source": "https://github.com/whjin/frontend-dev-doc",
-      "demo": "https://whjin.github.io/frontend-dev-doc/",
+      "demo": "https://whjin.github.io/frontend-dev-doc",
       "description": [
         "前端开发文档汇总（含代码规范、开发流程、学习笔记、知识分享,持续更新）。"
       ],
@@ -134,44 +135,10 @@
       "techtype": "frontend",
       "project_type": "personal",
       "name": "前端网址导航",
-      "source": "https://github.com/whjin/site-nav",
-      "demo": "https://whjin.github.io/site-nav/",
+      "source": "https://whjin.github.io/site-nav",
+      "demo": "https://whjin.github.io/site-nav",
       "description": [
         "收集经常访问的优秀前端资源站点（含技术站点、优秀博客、开发工具、技术周刊等）。"
-      ],
-      "stack": [
-        "html",
-        "css",
-        "js"
-      ],
-      "compatibility": "IE9+"
-    },
-    {
-      "type": "project",
-      "techtype": "frontend",
-      "project_type": "personal",
-      "name": "小游戏",
-      "source": "https://github.com/whjin/make-react-game",
-      "demo": "https://whjin.github.io/make-react-game/",
-      "description": [
-        "`React`设计的一款小游戏，轻松好玩界面简洁干净，部署到`Github Pages`。"
-      ],
-      "stack": [
-        "html",
-        "css",
-        "js"
-      ],
-      "compatibility": "IE9+"
-    },
-    {
-      "type": "project",
-      "techtype": "frontend",
-      "project_type": "personal",
-      "name": "旅游网站",
-      "source": "https://github.com/whjin/make-quasar",
-      "demo": "https://whjin.github.io/make-quasar/#/",
-      "description": [
-        "使用`vue-cli`作为主体，`Quasar`框架设计的`Material`风格的在线旅游网站，能够轻松设配移动端。"
       ],
       "stack": [
         "html",
@@ -198,6 +165,63 @@
         "mongodb"
       ],
       "compatibility": "IE9+"
+    },
+    {
+      "type": "project",
+      "techtype": "frontend",
+      "project_type": "personal",
+      "name": "臻品商城",
+      "source": "https://github.com/whjin/vue-mall",
+      "demo": "https://whjin.github.io/vue-mall",
+      "description": [
+        "使用`vue`、`vuex`、`vue-router`、`axios`、`flex` 技术栈构建的移动端和`PC`端商城。"
+      ],
+      "stack": [
+        "html",
+        "css",
+        "js",
+        "node.js",
+        "mongodb"
+      ],
+      "compatibility": "IE9+"
+    },
+    {
+      "type": "project",
+      "techtype": "frontend",
+      "project_type": "personal",
+      "name": "井字棋",
+      "source": "https://github.com/whjin/make-react-game",
+      "demo": "https://whjin.github.io/make-react-game",
+      "description": [
+        "使用`react`、`react-redux` 扩展`react`官网的井字棋小游戏，同时适配移动端和`PC`端，整体`UI`简洁明快。"
+      ],
+      "stack": [
+        "html",
+        "css",
+        "js",
+        "node.js",
+        "mongodb"
+      ],
+      "compatibility": "IE9+"
+    },
+    {
+      "type": "project",
+      "techtype": "frontend",
+      "project_type": "personal",
+      "name": "玩趣旅行",
+      "source": "https://github.com/whjin/make-quasar",
+      "demo": "https://whjin.github.io/make-quasar",
+      "description": [
+        "使用`vue`、`quasar`构建的响应式网站，具备渐进式应用`PWA`特征，网站`UI`明朗厚实，扩展性强。"
+      ],
+      "stack": [
+        "html",
+        "css",
+        "js",
+        "node.js",
+        "mongodb"
+      ],
+      "compatibility": "IE9+"
     }
   ],
   "skills": [
@@ -207,8 +231,8 @@
         {
           "summary": "`HTML5/CSS3/ES6`",
           "description": [
-            "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画",
             "熟悉已标准化的 `HTML5/CSS3` 新特性",
+            "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画",
             "熟悉 `ECMAScript（JavaScript）`，对 `JavaScript` 引擎及相关 `JIT` 技术有一定的了解",
             "了解 `ECMAScript` 新标准与相关后处理工具，并能在项目中使用",
             "熟悉原生 `DOM` 与 `BOM` 的使用及相关标准（`W3C / WHATWG`），有桌面/移动端前端组件的开发经验"
@@ -235,10 +259,11 @@
         {
           "summary": "`前端工程实践`",
           "description": [
+            "使用 `Vue` 构建电商应用,了解 `Vue/React` 及前端 `MV*` 模型",
             "熟悉`jQuery/Bootstrap`的使用、定制与扩展, 阅读过部分源代码",
-            "使用`Vue.js`编写过简单的`CRUD SPA`,了解`Vue/React`及前端`MV*`模型",
             "在项目中使用过`RequireJS/WebPack`等多种模块化解决方案，以及`Less/Sass/Stylus`等预处理/后处理工具",
-            "掌握基本的前端兼容性处理、性能优化机巧，并能在项目中加以实践"
+            "掌握基本的前端兼容性处理、性能优化机巧，并能在项目中加以实践",
+            "熟悉使用`mpvue`、`uni-app`框架开发微信小程序，并进行深入研究实践"
           ]
         }
       ]
