@@ -259,7 +259,7 @@
         {
           "summary": "`前端工程实践`",
           "description": [
-            "使用 `Vue` 构建电商应用,了解 `Vue/React` 及前端 `MV*` 模型",
+            "使用 `Vue` 构建电商应用，了解 `Vue/React` 及前端 `MV*` 模型",
             "熟悉`jQuery/Bootstrap`的使用、定制与扩展, 阅读过部分源代码",
             "在项目中使用过`RequireJS/WebPack`等多种模块化解决方案，以及`Less/Sass/Stylus`等预处理/后处理工具",
             "掌握基本的前端兼容性处理、性能优化机巧，并能在项目中加以实践",
