@@ -28,7 +28,7 @@ module.exports = {
       "en": "Language"
     },
     "experience": {
-      "ch": "工作与项目",
+      "ch": "项目与工作经验",
       "en": "Experience"
     },
     "skills": {
