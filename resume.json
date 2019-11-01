@@ -79,7 +79,7 @@
       "end": "2019.04",
       "name": "组态设计",
       "description": [
-        "设计数据中心监控系统，并深入工程现场解决突发问题。",
+        "设计数据中心监控系统，工程现场解决突发问题。",
         "优化项目流程，协调各部门的沟通与合作，提升项目执行和交付效率。",
         "搭建项目素材库以及人员分配系统，增强团队协作能力和较少重复性工作，保证项目高质量输出。"
       ],
@@ -100,7 +100,7 @@
       "description": [
         "开发微模块产品`H5`应用，设计展厅宣传网站，提高产品的推广效率。",
         "参与公司官网改版，与HR同事合作完成招聘网页和宣传海报设计，快速完成公司招聘任务。",
-        "参与公司内部办公系统的前端开发，基于`jQuery UI`、`Bootstrap`完成业务需求，实现`UI`与数据交互。"
+        "参与公司内部办公系统的前端开发，基于`jQueryUI`、`Bootstrap`完成业务需求，实现`UI`与数据交互。"
       ],
       "stack": [
         "HTML5",
@@ -134,7 +134,7 @@
       "techtype": "frontend",
       "project_type": "personal",
       "name": "前端网址导航",
-      "source": "https://whjin.github.io/site-nav",
+      "source": "https://github.com/whjin/site-nav",
       "demo": "https://whjin.github.io/site-nav",
       "description": [
         "收集经常访问的优秀前端资源站点（含技术站点、优秀博客、开发工具、技术周刊等）。"
@@ -150,11 +150,11 @@
       "type": "project",
       "techtype": "frontend",
       "project_type": "personal",
-      "name": "电商网站",
+      "name": "Node电商系统",
       "source": "https://github.com/whjin/TBuys",
       "demo": "https://github.com/whjin/TBuys",
       "description": [
-        "`node.js+Express+mongodb`设计的小型电商网站，使用`Bootstrap`适配移动端。"
+        "`Node.js+Express+Mongodb+Bootstrap`设计的电商管理系统。"
       ],
       "stack": [
         "html",
@@ -173,7 +173,7 @@
       "source": "https://github.com/whjin/vue-mall",
       "demo": "https://whjin.github.io/vue-mall",
       "description": [
-        "使用`vue`、`vuex`、`vue-router`、`axios`、`flex` 技术栈构建的移动端和`PC`端商城。"
+        "使用`Vue+VueRouter+Vuex+Axios+Flex`构建的臻品商城。"
       ],
       "stack": [
         "html",
@@ -188,11 +188,11 @@
       "type": "project",
       "techtype": "frontend",
       "project_type": "personal",
-      "name": "井字棋",
+      "name": "React小游戏",
       "source": "https://github.com/whjin/make-react-game",
       "demo": "https://whjin.github.io/make-react-game",
       "description": [
-        "使用`react`、`react-redux` 扩展`react`官网的井字棋小游戏，同时适配移动端和`PC`端，整体`UI`简洁明快。"
+        "使用`React+ReactRouter+Redux`设计的响应式井字棋小游戏。"
       ],
       "stack": [
         "html",
@@ -211,7 +211,7 @@
       "source": "https://github.com/whjin/make-quasar",
       "demo": "https://whjin.github.io/make-quasar",
       "description": [
-        "使用`vue`、`quasar`构建的响应式网站，具备渐进式应用`PWA`特征，网站`UI`明朗厚实，扩展性强。"
+        "使用`Vue+VueRouter+Quasar`构建`Material`主题风格的响应式旅游网站。"
       ],
       "stack": [
         "html",
