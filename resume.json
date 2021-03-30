@@ -50,7 +50,7 @@
       "start": "2009",
       "end": "2013",
       "honor": [
-        "优秀义工",
+        "深大优秀义工",
         "学业奖学金"
       ]
     }
@@ -74,35 +74,18 @@
     {
       "type": "internship",
       "techtype": "frontend",
-      "place": "共济科技",
+      "place": "深圳共济科技",
       "start": "2013.07",
       "end": "2019.04",
-      "name": "组态设计",
+      "name": "组态设计/前端设计",
       "description": [
-        "设计数据中心监控系统，工程现场解决突发问题。",
-        "优化项目流程，协调各部门的沟通与合作，提升项目执行和交付效率。",
-        "搭建项目素材库以及人员分配系统，增强团队协作能力和较少重复性工作，保证项目高质量输出。"
+        "设计数据中心监控系统，对接智能硬件设备接口，协助工程实施人员解决突发问题。优化项目流程，协调各部门的沟通与合作，提升项目执行和交付效率。搭建项目素材库以及人员分配系统，增强团队协作能力和较少重复性工作，保证项目高质量输出。",
+        "开发微模块产品展厅`H5`应用及宣传网站，提高产品的推广效率。参与公司官网改版，协助HR同事设计完成招聘网页和宣传海报设计，提升公司招聘效率。参与公司内部办公系统的前端开发，极大提高公司管理效率及业务流程处理效率。"
       ],
       "stack": [
         "PS",
         "CAD",
-        "AutoDesk"
-      ],
-      "compatibility": "IE8+"
-    },
-    {
-      "type": "internship",
-      "techtype": "frontend",
-      "place": "共济科技",
-      "start": "2017.04",
-      "end": "2019.04",
-      "name": "前端开发",
-      "description": [
-        "开发微模块产品`H5`应用，设计展厅宣传网站，提高产品的推广效率。",
-        "参与公司官网改版，与HR同事合作完成招聘网页和宣传海报设计，快速完成公司招聘任务。",
-        "参与公司内部办公系统的前端开发，基于`jQueryUI`、`Bootstrap`完成业务需求，实现`UI`与数据交互。"
-      ],
-      "stack": [
+        "AutoDesk",
         "HTML5",
         "jQuery",
         "jQuery UI",
@@ -113,105 +96,59 @@
       "compatibility": "IE8+"
     },
     {
-      "type": "project",
+      "type": "internship",
       "techtype": "frontend",
-      "project_type": "personal",
-      "name": "前端开发文档",
-      "source": "https://github.com/whjin/frontend-dev-doc",
-      "demo": "https://whjin.github.io/frontend-dev-doc",
+      "place": "广州唯景互娱",
+      "start": "2019.11",
+      "end": "2020.06",
+      "name": "前端开发",
       "description": [
-        "前端开发文档汇总（含代码规范、开发流程、学习笔记、知识分享,持续更新）。"
+        "`珠海翔翼模拟机排班系统`：使用`Vue`、`ElementUI`等开发框架实现飞行模拟训练排班系统，主要负责功能组件封装、UI层设计以及解决关键技术难点。解决了`H5`拖放`API`的移动端适配、排班计划响应和渲染效率慢、底层数据交互等核心问题，不断优化性能，把响应时间从`10+s`级提升到`0.1ms`级，很好地满足客户的性能需求，极大地推进项目的进度，得到领导和客户一致好评。",
+        "`西域游`：西域游项目是新疆旅游电子商务平台，是新疆旅游局、IBM以及相关企业合作的电子商务一体化服务平台。负责大部分的前端开发需求，包括环境搭建、UI整体设计、功能组件封装、数据接口设计等。本项目工期紧、需求大、人手少，极大地锻炼了承压能力和团队协调合作能力，丰富了技术栈和技术深度，积累了丰富的电商开发经验。",
+        "`翔翼电子化资料训练系统`：本项目是珠海翔翼模拟机排班系统的延伸项目，包括面向员工的PC端管理系统和面向客户的IOS移动端一体化服务APP。主要负责完成所有的前期设计，技术选型为`UNIAPP`和`Vue`，UI设计主要采用原生技术。解决了路由系统和动态组件设计的核心问题，快速构建项目原型。"
       ],
       "stack": [
-        "html",
-        "css",
-        "js"
+        "HTML5",
+        "jQuery",
+        "NodeJS",
+        "Vue",
+        "Less",
+        "CSS3",
+        "ElementUI"
       ],
-      "compatibility": "IE9+"
+      "compatibility": "IE8+"
+    },
+    {
+      "type": "internship",
+      "techtype": "frontend",
+      "place": "广州高科通信",
+      "start": "2020.06",
+      "end": "至今",
+      "name": "前端开发",
+      "description": [
+        "`远程律师会见系统`：该系统包含远程视频会见前台和管理后台两部分。前台系统使用`WebSocket`进行消息通信，原生技术栈进行功能实现，管理后台使用`Vue`和`iView`进行开发，统一推行组件化开发模式，封装高拍仪、手写板、视频监控等硬件控制模块及其他功能方法，具备很好的可扩展性和可维护性，整体提升团队开发效率及前后台开发的协同性。",
+        "`智能终端仓内屏`：该应用使用`uni-app`、`Vue.js`、`Android`等技术栈进行整体开发，负责本项目的所有前端开发任务，在组内培训推行组件化、模块化、功能迭代的开发模式，精简大量冗余代码，封装各类页面模块及功能模块，构建可移植、可集成、可扩展、低耦合、可维护、高性能的开发流程，重视前端在交互设计、用户体验发挥的作用，协助团队提升项目的迭代速度和交付效率。"
+      ],
+      "stack": [
+        "HTML5",
+        "jQuery",
+        "NodeJS",
+        "Vue",
+        "Less",
+        "CSS3",
+        "ElementUI"
+      ],
+      "compatibility": "IE8+"
     },
     {
       "type": "project",
       "techtype": "frontend",
       "project_type": "personal",
-      "name": "前端网址导航",
-      "source": "https://github.com/whjin/site-nav",
-      "demo": "https://whjin.github.io/site-nav",
+      "name": "开源项目",
+      "source": "https://github.com/whjin",
+      "demo": "https://github.com/whjin",
       "description": [
-        "收集经常访问的优秀前端资源站点（含技术站点、优秀博客、开发工具、技术周刊等）。"
-      ],
-      "stack": [
-        "html",
-        "css",
-        "js"
-      ],
-      "compatibility": "IE9+"
-    },
-    {
-      "type": "project",
-      "techtype": "frontend",
-      "project_type": "personal",
-      "name": "Node电商系统",
-      "source": "https://github.com/whjin/TBuys",
-      "demo": "https://github.com/whjin/TBuys",
-      "description": [
-        "`Node.js+Express+Mongodb+Bootstrap`设计的电商管理系统。"
-      ],
-      "stack": [
-        "html",
-        "css",
-        "js",
-        "node.js",
-        "mongodb"
-      ],
-      "compatibility": "IE9+"
-    },
-    {
-      "type": "project",
-      "techtype": "frontend",
-      "project_type": "personal",
-      "name": "臻品商城",
-      "source": "https://github.com/whjin/vue-mall",
-      "demo": "https://whjin.github.io/vue-mall",
-      "description": [
-        "使用`Vue+VueRouter+Vuex+Axios+Flex`构建的臻品商城。"
-      ],
-      "stack": [
-        "html",
-        "css",
-        "js",
-        "node.js",
-        "mongodb"
-      ],
-      "compatibility": "IE9+"
-    },
-    {
-      "type": "project",
-      "techtype": "frontend",
-      "project_type": "personal",
-      "name": "React小游戏",
-      "source": "https://github.com/whjin/make-react-game",
-      "demo": "https://whjin.github.io/make-react-game",
-      "description": [
-        "使用`React+ReactRouter+Redux`设计的响应式井字棋小游戏。"
-      ],
-      "stack": [
-        "html",
-        "css",
-        "js",
-        "node.js",
-        "mongodb"
-      ],
-      "compatibility": "IE9+"
-    },
-    {
-      "type": "project",
-      "techtype": "frontend",
-      "project_type": "personal",
-      "name": "玩趣旅行",
-      "source": "https://github.com/whjin/make-quasar",
-      "demo": "https://whjin.github.io/make-quasar",
-      "description": [
-        "使用`Vue+VueRouter+Quasar`构建`Material`主题风格的响应式旅游网站。"
+        "`GITHUB`持续进行开源项目开发，包括业余时间学习笔记，技术难点研究，开发环境搭建，功能组件封装及网站设计等。汇总优秀的前端技术站点、优秀博客、开发工具、技术周刊，记录开发工作中的代码规范、开发流程并在社区进行分享，不断提升自身的技术和业务能力。"
       ],
       "stack": [
         "html",
@@ -230,11 +167,9 @@
         {
           "summary": "`HTML5/CSS3/ES6`",
           "description": [
-            "熟悉已标准化的 `HTML5/CSS3` 新特性",
-            "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画",
-            "熟悉 `ECMAScript（JavaScript）`，对 `JavaScript` 引擎及相关 `JIT` 技术有一定的了解",
-            "了解 `ECMAScript` 新标准与相关后处理工具，并能在项目中使用",
-            "熟悉原生 `DOM` 与 `BOM` 的使用及相关标准（`W3C / WHATWG`），有桌面/移动端前端组件的开发经验"
+            "熟悉 `HTML5/CSS3` 新特性，能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画。",
+            "熟悉 `ECMAScript（JavaScript）`，对 `JavaScript` 引擎及相关 `JIT` 技术有一定的了解。",
+            "熟悉原生 `DOM` 与 `BOM` 的使用及相关标准（`W3C / WHATWG`），有桌面/移动端前端组件的开发经验。"
           ]
         }
       ]
@@ -245,9 +180,9 @@
         {
           "summary": "`Node.js`",
           "description": [
-            "能够使用 `Node.js API` 或 `Express` 搭建简单的后端程序与数据库交互，渲染模板及提供 `RESTful API`",
-            "能编写简单的 `Express / Connect` 中间件，使用`Mocha`与`Chai`编写单元测试",
-            "了解 `HTTP`、`TCP/IP`、`WebSocket` 等协议，熟悉 `MongoDB/MySQL` 数据库"
+            "能够使用 `Node.js API` 或 `Express` 搭建简单的后端程序与数据库交互，渲染模板及提供 `RESTful API`。",
+            "能编写简单的 `Express / Connect` 中间件，使用`Mocha`与`Chai`编写单元测试。",
+            "了解 `HTTP`、`TCP/IP`、`WebSocket` 等协议，熟悉 `MongoDB/MySQL` 数据库。"
           ]
         }
       ]
@@ -258,11 +193,12 @@
         {
           "summary": "`前端工程实践`",
           "description": [
-            "使用 `Vue` 构建电商应用，了解 `Vue/React` 及前端 `MV*` 模型",
-            "熟悉`jQuery/Bootstrap`的使用、定制与扩展, 阅读过部分源代码",
-            "在项目中使用过`RequireJS/WebPack`等多种模块化解决方案，以及`Less/Sass/Stylus`等预处理/后处理工具",
-            "掌握基本的前端兼容性处理、性能优化机巧，并能在项目中加以实践",
-            "熟悉使用`mpvue`、`uni-app`框架开发微信小程序，并进行深入研究实践"
+            "使用 `Vue` 构建电商应用，了解 `Vue/React` 及前端 `MV*` 模型。",
+            "熟悉`jQuery/Bootstrap`的使用、定制与扩展, 阅读过部分源代码。",
+            "在项目中使用过`RequireJS/WebPack`等多种模块化解决方案，以及`Less/Sass/Stylus`等预处理/后处理工具。",
+            "掌握基本的前端兼容性处理、性能优化机巧，并能在项目中加以实践。",
+            "熟悉使用`mpvue`、`uni-app`框架开发微信小程序，并进行深入研究实践。",
+            "熟练使用`uni-app`和`Vue`快速开发跨端应用，不断推进组件化、工程化开发模式。"
           ]
         }
       ]
@@ -270,11 +206,11 @@
     {
       "type": "miscellaneous",
       "item": [
-        "能够使用 `PhotoShop/Illustrator` 完成页面设计",
-        "日常使用 `Git`与`WebStorm/VSCode` 进行开发，也乐于尝试新工具",
-        "能够使用 `Markdown` 编写得体的中英文文档或论文，具备良好的技术交流能力",
-        "了解 `Linux` 的基本操作，常用命令与配置，能编写简单的 `bash` 脚本",
-        "良好的英文阅读能力，能够研读英文文档与技术书籍，喜欢在`Medium`和`Stack Overflow`进行交流"
+        "能够使用 `PhotoShop/Illustrator` 完成页面设计。",
+        "日常使用 `Git`与`WebStorm/VSCode` 进行开发，也乐于尝试新工具。",
+        "能够使用 `Markdown` 编写得体的中英文文档或论文，具备良好的技术交流能力。",
+        "了解 `Linux` 的基本操作，常用命令与配置，能编写简单的 `bash` 脚本。",
+        "良好的英文阅读能力，能够研读英文文档与技术书籍，喜欢在`Medium`和`Stack Overflow`进行交流。"
       ]
     }
   ]
