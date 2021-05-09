@@ -13,8 +13,8 @@ module.exports = {
     "undergraduate": "（本科）"
   },
   link_type: {
-    "homepage": "博客",
-    "segmentfault": "思否",
+    "homepage": "技术博客",
+    "segmentfault": "技术论坛",
     "repo": "源代码",
     "pdf": "PDF 下载"
   },
